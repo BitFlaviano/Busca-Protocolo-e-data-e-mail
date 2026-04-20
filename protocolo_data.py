@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 from email.utils import parsedate_to_datetime
 
 IMAP_SERVER = "imap.titan.email"
-EMAIL = "financeiro@kidverte.com.br"
-SENHA = "cfc@5832"
+EMAIL = "seueemail@provedor"
+SENHA = "passWord"
 
 
 def limpar_html(html):
