@@ -4,7 +4,7 @@ import re
 from bs4 import BeautifulSoup
 from email.utils import parsedate_to_datetime
 
-IMAP_SERVER = "imap.titan.email"
+IMAP_SERVER = "imap.seuprovedor.email"
 EMAIL = "seueemail@provedor"
 SENHA = "passWord"
 
